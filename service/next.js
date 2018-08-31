@@ -1,0 +1,5 @@
+let p = {
+    async function(){
+
+    }
+}
